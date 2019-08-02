@@ -1,0 +1,8 @@
+{
+    "map_name": "Runescape",
+    "map_path": "map_files/runescape",
+    "map_file": "runescape.dmm",
+	"shuttles": {
+	    "cargo": "cargo_delta"
+    }
+}
